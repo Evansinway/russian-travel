@@ -1,0 +1,8 @@
+.header__lang-list {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  gap: 18px;
+  /*align-self: flex-end; потом посмотреть надо или нет*/
+}
