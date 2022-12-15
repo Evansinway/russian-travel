@@ -4,5 +4,5 @@
   padding: 0;
   list-style: none;
   gap: 18px;
-  /*align-self: flex-end; потом посмотреть надо или нет*/
+  align-self: flex-end;
 }

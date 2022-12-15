@@ -10,6 +10,7 @@
   position: relative;
   text-decoration: none;
   z-index: 3;
+  color: #fff;
 }
 
 .cover__link::before {
@@ -20,9 +21,7 @@
   content: '';
   width: 100%;
   height: 100%;
-  top: 0;
-  left: 0;
-  /*transition: opacity 0.3s linear;*/
+  transition: opacity 0.3s linear;
   z-index: -1;
 }
 
