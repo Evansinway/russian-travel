@@ -4,3 +4,9 @@
   margin: 0 auto;
   font-family: 'Inter', Arial, sans-serif;
 }
+
+@media screen and (min-width: 1280px) {
+.page {
+  margin: 0 auto;
+}
+}
