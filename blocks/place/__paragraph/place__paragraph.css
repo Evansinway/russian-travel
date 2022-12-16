@@ -1,14 +1,10 @@
 .place__paragraph {
-  /*margin: 0 auto 0 auto;*/
   margin: 0;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.63;
-  /*line-height: 29.34px;*/
   color: #fff;
-  /*max-width: 484px;*/
-  /*padding: 0;*/
 }
 
 .place__paragraph:nth-child(1) {
