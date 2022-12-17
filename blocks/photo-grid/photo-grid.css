@@ -2,7 +2,7 @@
   display: grid;
   max-width: 1184px;
   margin: 0 auto;
-  padding: 0;
+  /*padding: 0;*/
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 16px;
   padding: 92px 48px 0 48px;
@@ -25,4 +25,3 @@
 }
 
 
-    
