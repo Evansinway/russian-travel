@@ -23,6 +23,7 @@
 @media screen and (max-width: 351px) {
 .places {
   max-width: 320px;
-  padding-top: 64px;
+  /*padding-top: 64px;*/
+  gap: 64px;
 }
 }
